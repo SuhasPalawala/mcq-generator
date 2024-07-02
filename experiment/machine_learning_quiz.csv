@@ -1,6 +1,6 @@
 MCQ,Options,Correct
-Who coined the term 'machine learning'?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b
-What was the name of the book published by Donald Hebb in 1949?,a: Learning Machines | b: The Organization of Behavior | c: Computing Machinery and Intelligence | d: Self-Teaching Computers,b
-Which company developed the experimental 'learning machine' called Cybertron?,a: IBM | b: Raytheon Company | c: Google | d: Microsoft,b
-What is one of the two main objectives of modern-day machine learning?,a: To replace human cognitive processes | b: To classify data based on models | c: To create new programming languages | d: To develop hardware for AI,b
-"According to Tom M. Mitchell, what improves with experience E in a machine learning algorithm?",a: The hardware performance | b: The algorithm's efficiency | c: The performance at tasks in T | d: The user interface,c
+Who coined the term 'machine learning' in 1959?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Tom M. Mitchell,Arthur Samuel
+What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a: Cybertron | b: Deep Blue | c: AlphaGo | d: Perceptron,Cybertron
+Which book by Donald Hebb introduced a theoretical neural structure formed by interactions among nerve cells?,a: Learning Machines | b: The Organization of Behavior | c: Computing Machinery and Intelligence | d: Pattern Recognition,The Organization of Behavior
+What are the two main objectives of modern-day machine learning?,a: Data classification and future outcome prediction | b: Data storage and retrieval | c: Algorithm optimization and data mining | d: Pattern recognition and speech synthesis,Data classification and future outcome prediction
+"According to Tom M. Mitchell, a computer program is said to learn from experience E if its performance at tasks in T, as measured by P, improves with what?",a: Time | b: Experience | c: Data | d: Algorithms,Experience
