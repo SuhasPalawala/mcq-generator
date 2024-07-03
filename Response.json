@@ -1,0 +1,32 @@
+{
+    "1": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "option a",
+            "b": "option b",
+            "c": "option c",
+            "d": "option d"
+        },
+        "correct": "correct answer"
+    },
+    "2": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "option a",
+            "b": "option b",
+            "c": "option c",
+            "d": "option d"
+        },
+        "correct": "correct answer"
+    },
+    "3": {
+        "mcq": "multiple choice question",
+        "options": {
+            "a": "option a",
+            "b": "option b",
+            "c": "option c",
+            "d": "option d"
+        },
+        "correct": "correct answer"
+    }
+}
